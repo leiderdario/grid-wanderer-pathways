@@ -1,4 +1,13 @@
-.
+Juego de Estrategia en Tiempo Real (RTS) con IA Avanzada
+Concepto: Un RTS 2D al estilo Advance Wars o Starcraft, pero con sistemas de IA adaptativa, rutas de suministro, diplomacia dinámica y generación procedural de mapas.
+
+Desafíos técnicos:
+
+Pathfinding eficiente (A* con optimizaciones).
+
+Sistema de decisión basado en Utility AI o Behavior Trees.
+
+Multihilo para cálculos de IA (usando Job System o ECS de Unity)..
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
